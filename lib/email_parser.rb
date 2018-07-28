@@ -16,5 +16,3 @@ class EmailParser
     parsed_emails.uniq
   end
 end
-
-binding.pry
