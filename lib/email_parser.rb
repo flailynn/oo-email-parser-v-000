@@ -11,6 +11,6 @@ class EmailParser
   end
 
   def self.parse
-
+    parsed_emails = @emails
   end
 end
